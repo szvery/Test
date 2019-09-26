@@ -10,6 +10,7 @@
 1ページ目です。<br>
 おいしいものが食べたい
 NHK NNN ANN JNN TXN FNN
-    ついか
+今日も暑いですね
+～そうですね
 </body>
 </html>
