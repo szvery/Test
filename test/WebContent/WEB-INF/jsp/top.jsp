@@ -9,7 +9,6 @@
 <body>
 1ページ目です。<br>
 おいしいものが食べたい
-NHK NNN ANN JNN TXN FNN
 今日も暑いですね
 ～そうですね
 </body>
